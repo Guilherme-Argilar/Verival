@@ -1,0 +1,93 @@
+
+Dcom.bcopstein.RegraImpostoComprasGrandes#calcular(Ljava/util/List;)Dr
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java ("startingBlock*¬
+3r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (Å
+Â
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java ($
+%6com.bcopstein.ItemVenda"
+__arrayGet*
+
+itensjava.util.List*
+""åâ
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (6
+%7double"*com.bcopstein.ItemVenda#getValorVendido()D*
+
+%6com.bcopstein.ItemVenda2getValorVendido()*
+4*ð
+startingBlockr
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (1¼
+¹
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (
+%8"
+__annotate*
+java.lang.Override*
+
+itensjava.util.List¦
+£
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java+ (0
+itensjava.util.List"__annotation*
+
+%8*
+9*¿
+4r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (½º
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java ('	
+%5int"java.util.List#size()I*
+
+itensjava.util.List2size()*
+3
+1*¯
+7r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (Å
+Â
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java ($
+%3com.bcopstein.ItemVenda"
+__arrayGet*
+
+itensjava.util.List*
+""åâ
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (6
+%4double"*com.bcopstein.ItemVenda#getValorVendido()D*
+
+%3com.bcopstein.ItemVenda2getValorVendido()*
+4
+7*ù
+9r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java	 	(òï
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java	 
+(k
+
+%0void",java.util.List#sort(Ljava/util/Comparator;)V*
+
+itensjava.util.List*
+""2sort(Ljava/util/Comparator;)½º
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java  (,	
+%1int"java.util.List#size()I*
+
+itensjava.util.List2size()Â
+¿
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (-	
+%2int"java.lang.Math#min(II)I*"
+java.lang.Math*2*
+	
+%1int*
+4
+7*õ
+1r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java ("|
+r
+hC:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/RegraImpostoComprasGrandes.java (
+"":
+itensjava.util.ListB,*
+(com.bcopstein.RegraImpostoComprasGrandes

@@ -1,0 +1,80 @@
+
+Pcom.bcopstein.FactoryValidacao#getRegraValidacao()Lcom/bcopstein/RegraValidacao;h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (+"4*≠
+2h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (6≈¬
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (4-
+%6'com.bcopstein.ValidacaoHorarioComercial"'com.bcopstein.ValidacaoHorarioComercial◊
+‘
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (6
+%7"1com.bcopstein.ValidacaoHorarioComercial#<init>()V*/
+-
+%6'com.bcopstein.ValidacaoHorarioComercial"õ
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (7/
+-
+%6'com.bcopstein.ValidacaoHorarioComercial*º
+3h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (ˆ
+Û
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java ($
+%3java.time.LocalTime"Hjava.time.LocalTime#parse(Ljava/lang/CharSequence;)Ljava/time/LocalTime;*"
+java.time.LocalTime*	
+18:00Ω
+∫
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java- (2
+%4java.time.LocalTime"__id*-*+ 
+com.bcopstein.FactoryValidacao"
+agoraãà
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (3
+%5boolean"3java.time.LocalTime#isAfter(Ljava/time/LocalTime;)Z*
+
+%3java.time.LocalTime*
+
+%4java.time.LocalTime2isAfter(Ljava/time/LocalTime;)*
+2
+1*æ
+4h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (ˆ
+Û
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java ($
+%0java.time.LocalTime"Hjava.time.LocalTime#parse(Ljava/lang/CharSequence;)Ljava/time/LocalTime;*"
+java.time.LocalTime*	
+08:00Ω
+∫
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java. (3
+%1java.time.LocalTime"__id*-*+ 
+com.bcopstein.FactoryValidacao"
+agoraçä
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (4
+%2boolean"4java.time.LocalTime#isBefore(Ljava/time/LocalTime;)Z*
+
+%0java.time.LocalTime*
+
+%1java.time.LocalTime2isBefore(Ljava/time/LocalTime;)*
+3
+1*¡
+1h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (6Õ 
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (41
+%8+com.bcopstein.ValidacaoForaHorarioComercial"+com.bcopstein.ValidacaoForaHorarioComercialﬂ
+‹
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (6
+%9"5com.bcopstein.ValidacaoForaHorarioComercial#<init>()V*3
+1
+%8+com.bcopstein.ValidacaoForaHorarioComercial"ü
+h
+^C:/Users/Guilherme Argilar/Desktop/tfVeriVal/src/main/java/com/bcopstein/FactoryValidacao.java (73
+1
+%8+com.bcopstein.ValidacaoForaHorarioComercialB" 
+com.bcopstein.FactoryValidacao

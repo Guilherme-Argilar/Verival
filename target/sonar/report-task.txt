@@ -1,0 +1,7 @@
+organization=guilherme-argilar
+projectKey=Guilherme-Argilar_Verival
+serverUrl=https://sonarcloud.io
+serverVersion=8.5.0.37579
+dashboardUrl=https://sonarcloud.io/dashboard?id=Guilherme-Argilar_Verival
+ceTaskId=AXYcAZslfZedV4MeS5oe
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXYcAZslfZedV4MeS5oe
